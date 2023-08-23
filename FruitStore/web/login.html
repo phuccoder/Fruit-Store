@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Login Page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        Input your information
+        <form action="MainController" method="POST" id="form">
+            User ID <input type="text" name="userID" required=""/></br>
+            Password <input type="password" name="password" required=""/></br>
+            <div class="g-recaptcha" data-sitekey="6LeBiQMnAAAAADBN9lbZ8KJZ_Qb1ekJ0XQnCMii2"></div>
+            <input type="submit" name="action" value="Login"/> 
+            <input type="reset" value="Reset"/>
+        </form>
+        
+        <a href="createUser.jsp">Create new account </a>
+        </br><a href="MainController?action=shoppingPage">Phuc Store</a>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    </body>
+</html>

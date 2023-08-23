@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/controller/MainController.java</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/order/OrderDetailDAO.java</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/web/login.jsp</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/controller/CheckoutController.java</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/web/checkout.jsp</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/utils/VerifyRecaptcha.java</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/controller/CheckoutViewController.java</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/web/shopping.html</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/web/shopping.jsp</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/controller/LoginController.java</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/web/viewCart.jsp</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/utils/DBUtils.java</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/shopping/FruitsDAO.java</file>
+            <file>file:/C:/Users/huyqn/Downloads/FruitStore/FruitStore/src/java/sample/order/OrderDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
